@@ -4,7 +4,7 @@
    "description": "An extension that integrates the Python task runner taskipy with VS Code.",
    "publisher": "k-kuroguro",
    "version": "0.0.1",
-   "icon": "resources/icon.png",
+   "icon": "resources/logo.png",
    "engines": {
       "vscode": "^1.96.0"
    },
