@@ -1,7 +1,7 @@
 {
-   "name": "extension-name",
-   "displayName": "Extension Name",
-   "description": "",
+   "name": "taskipy",
+   "displayName": "taskipy",
+   "description": "An extension that integrates the Python task runner taskipy with VS Code.",
    "publisher": "k-kuroguro",
    "version": "0.0.1",
    "icon": "resources/icon.png",
@@ -12,13 +12,13 @@
       "Other"
    ],
    "license": "MIT",
-   "homepage": "https://github.com/k-kuroguro/vscode-extension-template/blob/main/README.md",
+   "homepage": "https://github.com/k-kuroguro/vscode-taskipy/blob/main/README.md",
    "repository": {
       "type": "git",
-      "url": "https://github.com/k-kuroguro/vscode-extension-template.git"
+      "url": "https://github.com/k-kuroguro/vscode-taskipy.git"
    },
    "bugs": {
-      "url": "https://github.com/k-kuroguro/vscode-extension-template/issues"
+      "url": "https://github.com/k-kuroguro/vscode-taskipy/issues"
    },
    "activationEvents": [
       "*"
